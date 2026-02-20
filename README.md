@@ -98,9 +98,12 @@ UltraStatusDisplay:
 ## Preview
 
 <p align="center">
-  <br><img src="https://github.com/user-attachments/assets/c86357df-467c-497b-a049-2e08b251c890" width="250" height="250"><br>
-  <br><img src="https://github.com/user-attachments/assets/0f7dc5ba-7e42-4153-a9d1-8fa27a68f2b1" width="250" height="250"><br>
-  <br><img src="https://github.com/user-attachments/assets/dca844d9-ecc0-400e-9e76-d7a0fad4e6f9" width="250" height="250" ><br>
+  <br><img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/8c36600a-3ad5-4d53-af28-bb565d7e101e" />
+<br>
+  <br><img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/690cb6da-1b45-4fbd-a092-1d2623ecf46e" />
+<br>
+  <br><img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/acaff745-fb02-45cb-8e35-7643022cd072" />
+<br>
 </p>
 
 
