@@ -51,7 +51,7 @@ To use this mod, you must have:
 
 ## Installation
 
-1.  Download `UltraStatusDisplay.lua`
+1.  Download `UltraStatusDisplay.lua` on [Releases](https://github.com/khynxxx/StatusDisplay.lua-SA-MP-R1-/releases/tag/Final)
 2.  Place the file inside your game folder moonloader folder:
 
 ```
