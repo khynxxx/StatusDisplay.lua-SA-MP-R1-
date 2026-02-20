@@ -78,7 +78,7 @@ Inside the menu you can:
 -   Save configuration profile
 
 > ⚠ **Important:**
-> You must click **"Guardar configuración"** to save your changes.
+> You must click **"Save configuration"** to save your changes.
 > Otherwise, your configuration will reset on next login.
 
 ------------------------------------------------------------------------
